@@ -1,0 +1,22 @@
+.app-navbar{
+	background-color:cyan;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 40px;
+	color: black;
+}
+.app-brand{
+	color: red;
+	font-family: fantasy;
+	font-size: 65px;
+}
+.maha{
+	width: 150px;
+	height: 100px;
+}
+.pas{
+	width: 250px;
+	height: 250px;
+	border: 1px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
